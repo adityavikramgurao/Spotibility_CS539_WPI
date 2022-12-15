@@ -20,3 +20,6 @@ Playlist links were collected from our classmates with their consent to use this
 
 While working on website locally, we found out when it tries to make a spiderplot for user and matched person, it'll take significant amount of time or fails to load if the playlist contains more than 100 songs due to limitations of spotify's API.
 Generally, on an average a playlist should contain in between 50-80 songs. But sometimes their could be more than 100 songs.
+
+
+In order to run the website locally, you need to download this folder. Before running the website locally you need to install some files which can be found in requirements.txt. After installing all the required files, run the test1.py file.
