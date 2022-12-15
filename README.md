@@ -1,5 +1,6 @@
 # Spotibility_CS539_WPI
 CS539 Machine Learning Project Website Fall 2022
+(By Gabrielle Cabebe, Agustina Maccio, Tess Royds, Adityavikram Gurao, Uday Kumbhar)
 
 This is our project website for Machine Learning CS539 (Fall 2022).
 In this project, we are proposing a tool to generate ‘friendships’ based on musical preferences
