@@ -1,0 +1,6 @@
+{
+    "python.formatting.provider": "black",
+    "editor.maxTokenizationLineLength": 2000000000000000,
+    "appService.defaultWebAppToDeploy": "/subscriptions/91711c14-7293-4151-a8b6-10b514f9fc0f/AppServices/subscriptions/91711c14-7293-4151-a8b6-10b514f9fc0f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Spotibility",
+    "appService.deploySubpath": "."
+}
